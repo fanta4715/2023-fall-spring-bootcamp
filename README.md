@@ -22,6 +22,10 @@
 
 과제는 교과서 클론 코딩 및 기술블로그 작성으로 이루어질 예정입니다.
 
+---
+### IDE로는 Intellij를 사용합니다.
+
+intellij Ultimate 설치 방법 : https://goddaehee.tistory.com/215
 
 
 ------
