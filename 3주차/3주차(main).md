@@ -1,4 +1,4 @@
-# 3주차 Update, Delete 흐름 파악
+# 3주차 Update 흐름 파악
 
 
 
