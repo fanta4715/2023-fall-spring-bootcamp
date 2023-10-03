@@ -3,6 +3,7 @@
 show 머스테치에 추가
 <a href="/articles/{{article.id}}/delelte">Delete</a>
 
+```java
 @GetMapping("/articles/{id}/delete")
     public String delete(@PathVariable Long id){
         Article target=articleRepository.findById(id).orElse(null);
@@ -10,5 +11,5 @@ show 머스테치에 추가
         return "redirect:/articles";
 
     }
-
+```
 삭제 끗!
